@@ -1,0 +1,265 @@
+﻿body{margin:0px;}
+#top{
+	width:100%;
+	height:40px;
+	position:absolute;
+}
+
+#topin{
+	width:80%;
+	height:100%;
+	margin-left:10%;
+	background:grey;
+	position:absolute;
+}
+
+#topmain{
+	width:95%;
+	height:100%;
+	margin-left:2.5%;
+	background:grey;
+	position:absolute;
+}
+
+.login{
+	margin-top:10px;
+	float:right;
+	border-right:1px solid lightgrey;
+}
+
+.login a{
+	font-size:130%;
+	font-weight:bold;
+	margin-left:10px;
+	margin-right:5px;
+	color:lightgrey;
+} 
+
+#title{
+	position:absolute;
+	width:100%;
+	height:100px;
+	margin-top:40px;
+}
+
+#titlein{
+	width:80%;
+	height:100%;
+	margin-left:10%;
+	background:lightgrey;
+	position:absolute;
+}
+
+#titlemain{
+	width:95%;
+	height:100%;
+	margin-left:2.5%;
+	background:lightgrey;
+	position:absolute;
+}
+
+#titlename{
+	width:30%;
+	height:100%;
+	position:absolute;
+}
+
+#titletop{
+	width:100%;
+	height:70%;
+	position:absolute;
+}
+
+#titlebottom{
+	width:100%;
+	height:30%;
+	margin-top:70%;
+	position:absolute;
+}
+
+#menu{
+	position:absolute;
+	width:100%;
+	height:45px;
+	margin-top:140px;
+}
+
+#menuin{
+	width:80%;
+	height:100%;
+	margin-left:10%;
+	background:grey;
+	position:absolute;
+}
+
+#menumain{
+	width:95%;
+	height:100%;
+	margin-left:2.5%;
+	background:grey;
+	position:absolute;
+}
+
+#menuleft{
+	position:absolute;
+	width:60%;
+	height:100%;
+	background:grey;
+}
+
+.mainmenu{
+	margin-top:10px;
+	border-right:1px solid lightgrey;
+	float:left;
+}
+
+.mainmenu a{
+	font-size:24px;
+	font-weight:bold;
+	color:AliceBlue;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:20px;
+	text-decoration:none;
+}
+
+#menuright{
+	position:absolute;
+	width:40%;
+	height:100%;
+	margin-left:60%;
+	background:grey;
+}
+
+#search{
+	position:absolute;
+	width:60%;
+	height:100%;
+	margin-left:20%;
+	background:grey;
+	border-left:2px solid lightgrey;
+	border-right:2px solid lightgrey;
+}
+
+#button{
+	position:absolute;
+	width:20%;
+	height:100%;
+	margin-left:80%;
+	background:grey;
+	float:right;
+}
+
+#image{
+	position:absolute;
+	width:100%;
+	height:450px;
+	margin-top:185px;
+}
+
+#imagein{
+	width:80%;
+	height:100%;
+	margin-left:10%;
+	background:grey;
+	position:absolute;
+}
+
+#imagemain{
+	width:95%;
+	height:100%;
+	margin-left:2.5%;
+	position:absolute;
+
+}
+
+#hittop{
+	position:absolute;
+	width:100%;
+	height:50px;
+	margin-top:635px;
+}
+
+#hittopin{
+	width:80%;
+	height:100%;
+	margin-left:10%;
+	background:grey;
+	position:absolute;
+}
+
+#hittopmain{
+	width:95%;
+	height:100%;
+	margin-left:2.5%;
+
+	position:absolute;
+}
+
+#hitz{
+	position:absolute;
+	width:100%;
+	height:450px;
+	margin-top:685px;
+}
+
+#hitzin{
+	width:80%;
+	height:100%;
+	margin-left:10%;
+	background:grey;
+	position:absolute;
+}
+
+#hitzmain{
+	width:95%;
+	height:100%;
+	margin-left:2.5%;
+	background:lightgrey;
+	position:absolute;
+}
+
+.album{
+	height:50%;
+	width:20%;
+	
+	float:left;
+
+}
+
+.albumtitle{
+	margin-top:7%;
+	margin-left:10%;
+}
+
+.album a{
+	font-size:20px;
+	font-weight:bold;
+	color:grey;
+	
+	margin-top:300px;
+	text-decoration:none;
+}
+
+#bottom{
+	position:absolute;
+	width:100%;
+	height:150px;
+	margin-top:1135px;
+}
+
+#bottomin{
+	width:80%;
+	height:100%;
+	margin-left:10%;
+	background:grey;
+	position:absolute;
+}
+
+#bottommain{
+	width:95%;
+	height:100%;
+	margin-left:2.5%;
+
+	position:absolute;
+}
